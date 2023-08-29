@@ -1,2 +1,2 @@
-# santander-bootcamo
+# santander-bootcamp
 programas do bootcamp santander
